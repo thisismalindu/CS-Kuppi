@@ -1,4 +1,4 @@
-**Understanding Recursion in Python (Simplified Guide)**
+## Understanding Recursion in Python (Simplified Guide)
 
 ---
 
